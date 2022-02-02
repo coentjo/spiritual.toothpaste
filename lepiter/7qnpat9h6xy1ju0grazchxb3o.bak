@@ -76,7 +76,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2022-02-02T14:06:12.154036+01:00"
+												"dateAndTimeString" : "2022-02-02T14:06:41.245181+01:00"
 											}
 										},
 										"uid" : {
@@ -86,7 +86,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "- After this workshop your team should feel more or less ready to start using "
+										"string" : "- After this workshop your team should feel more or less ready to start using git for your team repository. "
 									}
 								]
 							},
