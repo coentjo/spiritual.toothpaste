@@ -5,6 +5,40 @@
 		"__type" : "snippets",
 		"items" : [
 			{
+				"__type" : "pictureSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-07T18:09:56.065296+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-07T18:10:13.452187+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "OiAYaNKTDQCJDfbBADlc2g=="
+				},
+				"url" : "attachments/cxdzc7kaxt3gpspsbd1ycmup4/git-gud.png"
+			},
+			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -459,6 +493,40 @@
 											"__type" : "textStyle"
 										},
 										"string" : "+ Who has already experience? "
+									},
+									{
+										"__type" : "pictureSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-07T21:38:32.225652+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-07T21:38:32.225652+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "p5MdUtWTDQCJHPoZADlc2g=="
+										},
+										"url" : ""
 									}
 								]
 							},
@@ -599,6 +667,43 @@
 					"__type" : "textStyle"
 				},
 				"string" : "# 2. *Basic principles* of version control with git"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-07T18:02:40.002103+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-02-07T18:07:10.016613+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "VpnUTdKTDQCJBadcADlc2g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "+ [S1: Toolbox Verdiepend over Git](https://stasemsoft.github.io/softwarematerial/docs/objects/#git)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -1243,7 +1348,119 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-02T15:13:28.065179+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-02T15:15:26.580895+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "bJSxW2uTDQCFAgvDD6OdJA=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "- [Getting started with git (docs at github)](https://docs.github.com/en/get-started/getting-started-with-git)"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-02T14:31:09.250674+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-02T15:16:24.471227+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "P6lUxGqTDQCrYVysBpZQmg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "- [Get started with GitLab (at GitLab.com)](https://about.gitlab.com/get-started/)"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-04T13:13:23.549579+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-04T13:13:34.664639+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "9uLo6ZGTDQCc9dwEBGGn4w=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "- [Git Cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)"
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -1280,81 +1497,45 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2022-02-02T15:13:28.065179+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2022-02-02T15:15:26.580895+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "bJSxW2uTDQCFAgvDD6OdJA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "- [Getting started with git (docs at github)](https://docs.github.com/en/get-started/getting-started-with-git)"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2022-02-02T14:31:09.250674+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2022-02-02T15:16:24.471227+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "P6lUxGqTDQCrYVysBpZQmg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "- [Get started with GitLab (at GitLab.com)](https://about.gitlab.com/get-started/)"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
+								"items" : [
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-02T12:14:35.051233+01:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2022-02-02T12:16:23.077855+01:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "J4dZ22iTDQCflgRbB7Wveg=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "+ [eBook Pro Git (very good and free)](https://git-scm.com/book/en/v2)"
+									}
+								]
 							},
 							"createEmail" : {
 								"__type" : "email",
@@ -1391,43 +1572,6 @@
 							"__type" : "textSnippet",
 							"children" : {
 								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2022-02-02T12:14:35.051233+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2022-02-02T12:16:23.077855+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "J4dZ22iTDQCflgRbB7Wveg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "+ [eBook Pro Git (very good and free)](https://git-scm.com/book/en/v2)"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
 								"items" : [
 									{
 										"__type" : "textSnippet",
@@ -1454,7 +1598,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2022-02-02T15:19:32.041118+01:00"
+												"dateAndTimeString" : "2022-02-07T17:55:19.523971+01:00"
 											}
 										},
 										"uid" : {
@@ -1464,7 +1608,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "+ [git-lab-site at FHICT (use i-account)](https://git.fhict.nl)"
+										"string" : "- [git-lab-site at FHICT (use i-account)](https://git.fhict.nl)"
 									},
 									{
 										"__type" : "textSnippet",
@@ -1491,7 +1635,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2022-02-02T15:14:30.665536+01:00"
+												"dateAndTimeString" : "2022-02-07T17:55:48.384826+01:00"
 											}
 										},
 										"uid" : {
@@ -1501,7 +1645,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "- [GitHub.com (out there)](https://github.com/)"
+										"string" : "- [GitHub.com](https://github.com/)  [(out there, into the wild)](https://www.imdb.com/title/tt0758758/)"
 									},
 									{
 										"__type" : "textSnippet",
@@ -1528,7 +1672,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2022-02-02T15:19:07.459107+01:00"
+												"dateAndTimeString" : "2022-02-07T17:55:23.90645+01:00"
 											}
 										},
 										"uid" : {
@@ -1538,7 +1682,7 @@
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "+ [GitLab-site (out there)](https://about.gitlab.com/get-started/)"
+										"string" : "- [GitLab-site (out there)](https://about.gitlab.com/get-started/)"
 									}
 								]
 							},
@@ -1664,12 +1808,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2022-02-02T12:13:40.014526+01:00"
+			"dateAndTimeString" : "2022-02-07T17:51:16.7331+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Git-workshop"
+		"title" : "Get Good @ Git"
 	},
 	"uid" : {
 		"__type" : "uuid",
